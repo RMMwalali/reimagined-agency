@@ -1,13 +1,13 @@
 ---
-title: "Mathematics"
+title: "Electrical power distribution system architecture"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "This entails the organization of the electrical power distribution system topology from the infeed electrical power sources to every electrical energy utilization point. By creating this, we provide a road map for designing the electrical works. Our design process for this entails preparation of the installation structure for two or more levels of the system. Design of this architecture is done considering the installations required of the project. A well-prepared architecture provides information on the types of power sources available and defines system parameters at each distribution and utilization level."
 # course thumbnail
-image: "images/courses/course-2.jpg"
+image: "images/courses/at-dynamic-premium.png"
 # taxonomy
 category: "Mathematics"
 # teacher
@@ -25,7 +25,7 @@ type: "course"
 ---
 
 
-### About Course
+### Impacts of Distribution Architecture on an Installation
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea

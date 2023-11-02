@@ -1,15 +1,15 @@
 ---
-title: "Photography"
-date: 2019-07-06T15:27:17+06:00
+title: "Load data analysis"
+date: 2023-07-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/courses/3d-coin-dynamic-premium.png"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "In your industrial infrastructure project, we typically start the project by collecting all information regarding your electrical load. We estimate how much electrical energy is required for your industrial infrastructure project. We then determine the type of input voltage (MV or LV) to use on a routine basis for your electrical installation to ensure cost efficiency and proper operation of all equipment in your plant. These constitute a thorough analysis of your electrical load data to enable us formulate the best design for your system."
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/3d-coin-dynamic-premium.png"
 # taxonomy
-category: "Photography"
+category: "Load Data"
 # teacher
 teacher: "Clark Malik"
 # duration
@@ -25,47 +25,36 @@ type: "course"
 ---
 
 
-### About Course
+### Electrical Load
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+An electrical load is referred to as the component of a circuit that consumes power. In electrical design, the first step in an industrial project is to list out all the electrical load required in that facility in a load list, from which a load schedule is formulated.</p>
 
-### Requirements
+### Components of a typical load list
 
+* Equipment
+* Number of machines
+* Power requirement
+* Type of usage: continuous, emergency, intermittent, etc
+* Power factor
+* Diversity factor
+* Rated load per machine
 
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+As professional industrial electrical engineering designers, we analyze the data and subsequently decide the load requirement, installed load, load factor, diversity factor, steady-state demand, maximum demand, connected load etc, culminating in a decision on the type of power required.  In doing this, we check the data along with the local codes, tariff policies and required energy sources.
+
+### Key Deliverables
+
+* Load Calculation
+* Load Factor Calculations
+* Diversity Factor Calculations
+* Maximum Demand Calculation
+* Installed and Contract Load Calculation
+* Electrical Installation Sizing
+* Transformer Sizing
+* Block Diagrams
+* Block Estimates
+* Primary Consultation Report
+
+Load data analysis culminates in properly sizes electrical power distribution and control systems, both at the infeed of the industrial development, all the way downstream to every load. This also determines the size and specification of power transformer and back-up power equipment required for the industrial development. 
 
 
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.

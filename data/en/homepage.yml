@@ -57,20 +57,17 @@ about:
   enable : true
   title : "About iPAS"
   image : "images/about/about-us-1.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "Integrated Power and Automation Systems Ltd(iPAS) is an electrical engineering company that provides professional electrical systems design and project execution services for industrial developments. Our services include electrical distribution system design and upgrades, industrial power control systems, substations and switchgear, power systems analysis, generator control systems, automation systems and electrical distribution equipment testing."
   button:
     enable : true
-    label : "View Our Services"
+    label : "Learn More"
     link : "about/"
 
 
 ############################# Course ################################
 course:
   enable : true
-  title : "Our Products"
+  title : "Our Services"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
@@ -89,11 +86,7 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : ""
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
@@ -104,7 +97,7 @@ event:
   title : "Upcoming Events"
   # event item comes from "content/**/event" folder.
 
-  
+
 ########################### funfacts ############################
 funfacts:
   enable : true
